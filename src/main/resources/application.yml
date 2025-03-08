@@ -1,0 +1,8 @@
+langchain:
+  timeout: 3000
+logging:
+  level:
+    root: INFO
+    dev:
+      nano.sbot: DEBUG
+      langchain4j: DEBUG
