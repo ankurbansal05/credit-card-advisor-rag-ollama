@@ -1,5 +1,4 @@
 <div style="display: flex; align-items: center; justify-content: center; margin: auto;">
-  <img src="docs/images/logo.png" alt="Logo" width=180 height=180 />
   <h1>American Express Credit Card Advisor </h1>
 </div>
 
